@@ -1,4 +1,4 @@
 # 👋 Hi, I'm Yiming
 
 ## 📫 How to Reach Me
-- X (Twitter): [@isyiming](https://x.com/isyiming)
+- X (Twitter): [@spikePurr](https://x.com/spikePurr)

@@ -1,4 +1,4 @@
 # 👋 Hi, I'm Spike
 
 ## 📫 How to Reach Me
-- X (Twitter): [@fakeSpikePurr](https://x.com/fakeSpikePurr)
+- X (Twitter): [@0xfakeSpike](https://x.com/0xfakeSpike)

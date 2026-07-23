@@ -13,7 +13,6 @@ I have owned production systems across Solana transaction processing, zk-rollup 
 - **Web3 infrastructure:** transaction pipelines, sequencing, deterministic state execution, proof orchestration, blockchain indexers, and wallet backends
 - **Solana systems:** block and transaction parsing, AMM integrations, pool discovery, quoting, routing, and instruction construction
 - **AI agent tooling:** planning and evaluation loops, MCP tools, CLI integrations, context management, execution traces, and human approval flows
-- **Reliable financial workflows:** idempotent state transitions, retries, reconciliation, limits, alerts, audit logs, and operational recovery
 
 ## Production Experience
 

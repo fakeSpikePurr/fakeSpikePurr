@@ -16,11 +16,10 @@ I have owned production systems across Solana transaction processing, zk-rollup 
 
 ## Production Experience
 
-- Owned the backend architecture, implementation, APIs, and initial production operation of a Solana trading product at a dex.
-- Productionized and maintained the **zk-rollup backend**, including sequencing, deterministic state execution, proof orchestration, and BNB Chain settlement.
-- Maintained multi-chain wallet order execution and built auditable treasury-rebalancing and encrypted-key migration workflows.
+- Owned the backend architecture, implementation, APIs, and initial production operation of a Solana trading product at a cex.
+- Maintained the zk-rollup backend, including sequencing, deterministic state execution, proof orchestration, and BNB Chain settlement.
 
-> Most production code from my professional experience is private. The projects below demonstrate the same interests through public, independently built software.
+> The projects below demonstrate the same interests through public, independently built software.
 
 ## Featured Projects
 

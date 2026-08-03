@@ -27,7 +27,6 @@ I have owned production systems across Solana transaction processing, zk-rollup 
 | --- | --- |
 | [**SolRoute**](https://github.com/Solana-ZH/solroute) | Go SDK for direct Solana AMM interaction: pool discovery, quoting, route selection, and instruction construction across Raydium, Meteora, and PumpSwap. 50+ stars and a 2026 Solana Foundation ecosystem grant. |
 | [**Overheat**](https://github.com/OverheatSG) | Solana/EVM on-chain AI Oracle project built during a Solana hackathon. Developed Solana programs with Anchor/Rust and EVM smart contracts with Solidity. Won 2nd place as a four-person team and was presented at a Solana community meetup in Shanghai. |
-
 | [**atomicals-go**](https://github.com/atomicals-community/atomicals-go) | Crash-safe, fork-aware Bitcoin/Atomicals indexer with pruned-node and PostgreSQL support. Includes an FT-splitting proposal adopted into the protocol's official implementation. |
 | [**OctoSucker**](https://github.com/OctoSucker/OctoSucker) | Personal Go agent runtime with Planner–Executor–Evaluator execution, schema-validated tools, MCP and skills, structured trajectories, bounded recovery, and approval flows. |
 | [**KGgraph**](https://github.com/OctoSucker/KGgraph) | CLI/MCP graph memory for preserving private experience, retrieving multi-hop context, and keeping agent decisions explicit and consistent. |
